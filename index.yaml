@@ -8,6 +8,6 @@ entries:
     digest: 1072cd7af52fbc356fd9564e8b3deaf18e4d7f91fbfc55f2a10aad4406aaf612
     name: greetingsapp-chart
     urls:
-    - https://github.com/sonusathyadas/helm-repos/greetingsapp-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/sonusathyadas/helm-repos/master/greetingsapp-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2019-10-03T13:32:39.0963045+05:30"
